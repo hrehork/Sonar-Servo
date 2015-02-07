@@ -1,29 +1,22 @@
-# Object files
+!*.c
+!*.h
+*.log
+*.plg
+*.bak
+*.dep
+*.uvgui.*
+*.uvguix.*
+*.uvproj
+*.uvoptx
+JLinkLog.txt
 *.o
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
+*.d
+*.crf
+*.tra
+*.axf
 *.hex
+*.lnp
+*.sct
+*.__i
+*.htm
+Listings/
